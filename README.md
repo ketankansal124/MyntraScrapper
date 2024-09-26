@@ -1,1 +1,1 @@
-# Myntra Review Scraper project
+# Myntra Review Scrapper project
